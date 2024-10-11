@@ -21,11 +21,6 @@ hash = "e091c66be5593137766e0f19205877b67e0be46eabbcdf7ae15ba597c2269050"
 metafile = true
 
 [[files]]
-file = "mods/blur-fabric.pw.toml"
-hash = "b60bab1bf6fa82a49cac84b0042f664b94705123441f16f543c0674b52ac0135"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "d394d278f323f469a408c117524b5c1156aa09129be60096f5cec6602ca1d204"
 metafile = true
