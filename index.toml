@@ -11,13 +11,28 @@ hash = "995f4235d4fd4cb5b01eda59818aa48d1d3c8e2cf54bbf57d777b9deab2b180c"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "dd78195f009d35c7f07d06feaab93382c5905e29c6478dcba8704b0de4e9faac"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "6eb601a241388a5bc2bca4c2fde535567a236d18d510275bcf3fbea78c79e081"
 metafile = true
 
 [[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "96ca9ca593a152da8168e14a548a9800a55f713d5c5ab0c47a9b4bc42e75b714"
+metafile = true
+
+[[files]]
 file = "mods/blahaj-fabric.pw.toml"
 hash = "e091c66be5593137766e0f19205877b67e0be46eabbcdf7ae15ba597c2269050"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "6a6caaf02d23e6a98285aff3baab40a8ec3ab7107c936651904609b13b30875a"
 metafile = true
 
 [[files]]
@@ -36,6 +51,21 @@ hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "8924f70537405b8bc884504814f8963483268b492bcad4c6d87badde63ee69e5"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "363585e8e036661696b03a71bd90382072f77f4cdfdd9b5e0809eaa737e80b9e"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "c114476bf714bae4f48ea41ea21d797ee17a540023507ecb0abd671ce912cf43"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "6779c737552a9095ab04b60cd34f6611477226de79b232ba9a43e36e05d4551b"
 metafile = true
@@ -46,8 +76,23 @@ hash = "8f89f3db3ee1ee8d91f28ad870dadb0a66ac3792f2bef83b0f29f413000bdc1d"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "c9cfe549974364408cc2fbac58be36bed9bc077a6382838a598e64857257c592"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d194f46623d966dd1687dda4e1fc4b1593ac60aa92d7380ca4c91775060d1d7c"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "8a114ea0fda082e82adb39d5a684c0f24eda5c91dd6f09ba0ca6fd83106676eb"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "f3375f22b9ef0f00d52f5150a0b3edc6085fd4930bb0d4573dee813bcb2b398b"
 metafile = true
 
 [[files]]
@@ -81,8 +126,18 @@ hash = "cdfc040e85ea3b7abcce2a930bc0337cf3dd4790e20842a21c2422596c2c4982"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "7f5d08d2293bd01f6d00bc91cb060e2b7bb33d1b6b10956d0936b127e9c96165"
+metafile = true
+
+[[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "d06dfa3314d6d225cdf5a9b115604570713d9cb17d377c4a26b92b1b139aa882"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "181592d338d3eb7c64a15a3217c71565b15dfcec4e503fb7cc651c750eb52089"
 metafile = true
 
 [[files]]
@@ -116,6 +171,16 @@ hash = "5bc9c49e1731b4161fe60fb6d38e01cc5d8051a08b9244aff6c7843f89e901a7"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "3cd8155341a4233955ff9892a3b7b5da6dc6d8d892863b2f544328f2731f7f03"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "9b9a1d731baea2a01d8c36cbed0bef0a543e29bf707738dc83a6ea21de591383"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9caff9fbc6ce49e5a46bbd740238beeedf4f4b59671c509e7f20c3f135da87b5"
 metafile = true
@@ -141,6 +206,21 @@ hash = "ea75aa3d6540593f47e5f1f7d0058f3d39657d4879a99fd7fee0a6387738b262"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "1c9efa979e438f200e1231470405c0e5e5c2cceb68c161bbf8cada76cc0fa6bc"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "3ce0dc0b1fbfacb543975b79b8574746d5cc91e79720b2a0a142b9bec063402c"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "c32be67ab7e326863bc827848d351622d0d63590260e220039b468920bccd99e"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6bac745751a6c2a8c575981c33992c88dd11eaeeadb9e49a6d589b2b9996a2f0"
 metafile = true
@@ -156,6 +236,16 @@ hash = "2bebc5dcc3e4a10514000b57bed5a8868f98cbad77275e3a1368f5e63ab7d3c7"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "9ca313032df18b5a4ed916dfde5b7385eba91c6e01d4bd6bdcf633bfb3e9c9d2"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "7272c5a42adabf494f6026711c21d5de5247bb5ccfdb03add4e553d707d81c8b"
+metafile = true
+
+[[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "a7eb579e60e39aed9009bd212300faf03ce5d1821f35b2ce53aefecb5afe817d"
 metafile = true
@@ -168,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "e506591a7f48bd5eedb25477c41bd32059714e423fc9c4414a7784b138bc7ec3"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "f5031d53eb32a7b25e0c2347f599805679a49073b86ed4450ca60ec9b72086d1"
 metafile = true
 
 [[files]]
@@ -193,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/this-boat-is-mine.pw.toml"
 hash = "1b13755ad1cd1cb761748cbb545bedefd8deb6d19720d6779c3cdcd868fd9afe"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "7b5e8074a47ad6a9e453a29853bb1527906ae0ced0d714fcd386c75ef1f0f00a"
 metafile = true
 
 [[files]]
