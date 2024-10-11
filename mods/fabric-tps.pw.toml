@@ -1,0 +1,13 @@
+name = "Fabric TPS"
+filename = "fabric_tps-1.21.1-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "28b3c717def8384a91b40974b9979f47e0ccae12"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5752643
+project-id = 918784

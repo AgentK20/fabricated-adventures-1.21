@@ -1,2 +1,196 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "9d67d6555d4f52d1fa87c726da25d97c1ee9ca8ddaa3633b7ddc18f3ace472d9"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "995f4235d4fd4cb5b01eda59818aa48d1d3c8e2cf54bbf57d777b9deab2b180c"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "6eb601a241388a5bc2bca4c2fde535567a236d18d510275bcf3fbea78c79e081"
+metafile = true
+
+[[files]]
+file = "mods/blahaj-fabric.pw.toml"
+hash = "e091c66be5593137766e0f19205877b67e0be46eabbcdf7ae15ba597c2269050"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "b60bab1bf6fa82a49cac84b0042f664b94705123441f16f543c0674b52ac0135"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "d394d278f323f469a408c117524b5c1156aa09129be60096f5cec6602ca1d204"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "b034dd042c238d4cd1aeca6a0fa5ef3302198ef6c1e34d18638e8326dfc366e6"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "6779c737552a9095ab04b60cd34f6611477226de79b232ba9a43e36e05d4551b"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d194f46623d966dd1687dda4e1fc4b1593ac60aa92d7380ca4c91775060d1d7c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "9cdc3215713f357d68e22b2c61155b84d361646ee57f2cca90287b52837dbb56"
+metafile = true
+
+[[files]]
+file = "mods/fabric-tps.pw.toml"
+hash = "61be0fa12379647867afc5a160a206366c54c756dfd1d1428c5e635505f44ab4"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "3735807b4d7f5fba414cb55b4e40c17d839655236471362f59533d295f006bb3"
+metafile = true
+
+[[files]]
+file = "mods/flat-bedrock.pw.toml"
+hash = "a89cc1b931a43767bc47a01651b9f521f25b1eda719c1bd604e7a079144169f9"
+metafile = true
+
+[[files]]
+file = "mods/food-effect-tooltips.pw.toml"
+hash = "22e812bc8359e6f332ed3b9ac768642a0c99f1f6b737b0b230fe81b3b1770844"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "cdfc040e85ea3b7abcce2a930bc0337cf3dd4790e20842a21c2422596c2c4982"
+metafile = true
+
+[[files]]
+file = "mods/herdspanic.pw.toml"
+hash = "d06dfa3314d6d225cdf5a9b115604570713d9cb17d377c4a26b92b1b139aa882"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "a9b10775a9dce8dcf28cb2415054de3b102c322e6fd7911f54eb0b4fd3a23093"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "4f888afa5310fafa2c35b85c172637e3b5e476b348473b54a47b46f4da8f8721"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "3220220458d52032d032cc660979edc106db60c277f66998246281da58d63e29"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "3a013ddfe3f16e4e7ad0d78157a0b19edf28b9236c799910ffbb115c57ce0d5b"
+metafile = true
+
+[[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "5bc9c49e1731b4161fe60fb6d38e01cc5d8051a08b9244aff6c7843f89e901a7"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9caff9fbc6ce49e5a46bbd740238beeedf4f4b59671c509e7f20c3f135da87b5"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "6105c544e8f5e340d189056416de7abed26fb32b21c91426eea704e432ced60b"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "5ebd4e79021dc895e34e8b4517a239b2f66d66f899a2c91bfe9ad1f3bbf6e5e3"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "d51780e4d3ae53ab2d526b3388787b27d5d996a80bec2e4b5f7056b832161cdc"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "ea75aa3d6540593f47e5f1f7d0058f3d39657d4879a99fd7fee0a6387738b262"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6bac745751a6c2a8c575981c33992c88dd11eaeeadb9e49a6d589b2b9996a2f0"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "2bebc5dcc3e4a10514000b57bed5a8868f98cbad77275e3a1368f5e63ab7d3c7"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "393f78713f0b820a866c8bd0eb6edf2009e56ffc72766c2dbab4fe3dfc0ed2d4"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "e506591a7f48bd5eedb25477c41bd32059714e423fc9c4414a7784b138bc7ec3"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "1338fe3f258a472b58526481cba2bf624d966866f4cde360e466caa5c9d24274"
+metafile = true
+
+[[files]]
+file = "mods/styled-player-list.pw.toml"
+hash = "3b313ea91d4517c21be66552d35895ff5913438c73479ce88c599892c5f56373"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "c702e025298d58a90705f502abad07bb03e1dcc22733c95e1379665aa149918e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "dd96fac93e75a6a58feb82ac12ebd6155ec1ee305a2726e0ab05c22eeea79476"
+metafile = true
+
+[[files]]
+file = "mods/this-boat-is-mine.pw.toml"
+hash = "1b13755ad1cd1cb761748cbb545bedefd8deb6d19720d6779c3cdcd868fd9afe"
+metafile = true
+
+[[files]]
+file = "mods/waystones-fabric.pw.toml"
+hash = "aa15275aa62db75bcf31ac3180b96dc8706cfd40b49c938e3128f14bffaa80d7"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "ca4306853c6033d1a8b4c54043581e28f266d0f30a624546487c45f6d6c829cc"
+metafile = true
+
+[[files]]
+file = "mods/youre-in-grave-danger.pw.toml"
+hash = "2ae4defc31a0f52c873cbd468fb4ba90ad472a863eed051a06cf6703d094b085"
+metafile = true

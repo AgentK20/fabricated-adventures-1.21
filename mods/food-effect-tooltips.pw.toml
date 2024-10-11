@@ -1,0 +1,13 @@
+name = "Food Effect Tooltips"
+filename = "FoodEffectTooltips-1.1.1-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7979852cdb56a6cf33d0a7ea4fb0e9961e0ab97a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5442117
+project-id = 695850
