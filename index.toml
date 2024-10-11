@@ -26,6 +26,16 @@ hash = "96ca9ca593a152da8168e14a548a9800a55f713d5c5ab0c47a9b4bc42e75b714"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "3d1aee9d2a975fb5022cd10b0b563003b11e5689af293c9b4b710ad96b1a005c"
+metafile = true
+
+[[files]]
+file = "mods/big-globe.pw.toml"
+hash = "d3980c1635dff0610281fe93d87b822a47fc7eb69dab9ab9c557d990f84078bc"
+metafile = true
+
+[[files]]
 file = "mods/blahaj-fabric.pw.toml"
 hash = "e091c66be5593137766e0f19205877b67e0be46eabbcdf7ae15ba597c2269050"
 metafile = true
@@ -56,6 +66,11 @@ hash = "8924f70537405b8bc884504814f8963483268b492bcad4c6d87badde63ee69e5"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "e31b47449398825da7bdcc19509d0bf4f1d743ababc4d4ad59536508be003f37"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "363585e8e036661696b03a71bd90382072f77f4cdfdd9b5e0809eaa737e80b9e"
 metafile = true
@@ -76,6 +91,16 @@ hash = "8f89f3db3ee1ee8d91f28ad870dadb0a66ac3792f2bef83b0f29f413000bdc1d"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "abeec141489427fa86618399e93dbe82fbd26fdfb3b0aaad923264d2731419fd"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "319b757fcefbea557c7c17b8c33f8164277a129bdf4d537303a777e601f9e457"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "c9cfe549974364408cc2fbac58be36bed9bc077a6382838a598e64857257c592"
 metafile = true
@@ -93,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
 hash = "f3375f22b9ef0f00d52f5150a0b3edc6085fd4930bb0d4573dee813bcb2b398b"
+metafile = true
+
+[[files]]
+file = "mods/essential-mod.pw.toml"
+hash = "a2d14a7cf25569c0667f06475b86b5f8914032adea718d18b9c8ee78cfc8f3f6"
 metafile = true
 
 [[files]]
@@ -156,6 +186,21 @@ hash = "3220220458d52032d032cc660979edc106db60c277f66998246281da58d63e29"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "ff0703df434b6f120ee7fb10464dbc213879e124dd0261281f5a5aca6676a6ac"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "bf87266803c4386966e90dc88a99888e3bb6e519d11c18b1edccbec507814b93"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "906cfb9af1f12161132cb24bf9996b1502ecf4bf06eccd651c5bd0e7f80fc546"
+metafile = true
+
+[[files]]
 file = "mods/login-protection.pw.toml"
 hash = "3a013ddfe3f16e4e7ad0d78157a0b19edf28b9236c799910ffbb115c57ce0d5b"
 metafile = true
@@ -163,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "42406f473bcecd1ecb5efeaee79a344c2b7416dd6f15fdae5f03f5cf3fd8fe6d"
+metafile = true
+
+[[files]]
+file = "mods/memory-settings.pw.toml"
+hash = "93177bf0f78283fdc27de468a8e634b20e8bb65d0c5bfc45db5d1d3ad892db0f"
 metafile = true
 
 [[files]]
@@ -243,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "7272c5a42adabf494f6026711c21d5de5247bb5ccfdb03add4e553d707d81c8b"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "a5ba861df1dbb9ced6115c11dea1c62ae517db0347a80ea8a7c1d2dfeda83305"
 metafile = true
 
 [[files]]
