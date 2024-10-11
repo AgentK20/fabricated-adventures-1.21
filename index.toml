@@ -41,6 +41,11 @@ hash = "6779c737552a9095ab04b60cd34f6611477226de79b232ba9a43e36e05d4551b"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "8f89f3db3ee1ee8d91f28ad870dadb0a66ac3792f2bef83b0f29f413000bdc1d"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d194f46623d966dd1687dda4e1fc4b1593ac60aa92d7380ca4c91775060d1d7c"
 metafile = true
@@ -101,6 +106,11 @@ hash = "3a013ddfe3f16e4e7ad0d78157a0b19edf28b9236c799910ffbb115c57ce0d5b"
 metafile = true
 
 [[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "42406f473bcecd1ecb5efeaee79a344c2b7416dd6f15fdae5f03f5cf3fd8fe6d"
+metafile = true
+
+[[files]]
 file = "mods/modern-ui.pw.toml"
 hash = "5bc9c49e1731b4161fe60fb6d38e01cc5d8051a08b9244aff6c7843f89e901a7"
 metafile = true
@@ -136,8 +146,18 @@ hash = "6bac745751a6c2a8c575981c33992c88dd11eaeeadb9e49a6d589b2b9996a2f0"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "64d946e815b6a939a10e2fd846e54a65cbbbe1782cdcd10ce30fff285a04acd6"
+metafile = true
+
+[[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "2bebc5dcc3e4a10514000b57bed5a8868f98cbad77275e3a1368f5e63ab7d3c7"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "a7eb579e60e39aed9009bd212300faf03ce5d1821f35b2ce53aefecb5afe817d"
 metafile = true
 
 [[files]]
