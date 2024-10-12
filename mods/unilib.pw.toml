@@ -1,0 +1,13 @@
+name = "UniLib"
+filename = "UniLib-1.0.3+0.0.8-flint.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a8352d242d4b962b440e143580fcc6bfb4e4369"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5797801
+project-id = 1056812

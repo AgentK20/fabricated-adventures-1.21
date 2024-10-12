@@ -1,0 +1,13 @@
+name = "Physics Mod"
+filename = "physics-mod-3.0.20-mc-1.21.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "189dded3a6c82992807bfdd92acf694c03cde4ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5726771
+project-id = 442735

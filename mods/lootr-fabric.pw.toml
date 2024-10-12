@@ -1,0 +1,13 @@
+name = "Lootr (Fabric)"
+filename = "lootr-fabric-1.21-1.10.33.82.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "977785a01a9cf333394e6d98e97a3db830d9c68e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5709011
+project-id = 615106

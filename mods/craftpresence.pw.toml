@@ -1,0 +1,13 @@
+name = "CraftPresence"
+filename = "CraftPresence-2.5.1+0.0.8-flint.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c911af74d8b3d30c140adcaa5b9c3e5d47d9dc39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5798233
+project-id = 297038
