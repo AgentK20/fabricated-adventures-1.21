@@ -1,0 +1,13 @@
+name = "Accessories"
+filename = "accessories-fabric-1.1.0-beta.4+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b61878ba16565ac183f447c8c7b135414699a757"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5799003
+project-id = 938917

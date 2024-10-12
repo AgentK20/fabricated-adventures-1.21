@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "8a4a6ccbc70cb536447f1e65ac25410ed997010d5a6d7527622c8d268d16bf16"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "f503186077b88af561c50d561ca5fa341690b06354c2173173e2fa2efcf350d9"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "dbe1649fa42770235a80d50b60f37c86221a1ecb3e0cd5a3eebc2f9167928f91"
 metafile = true
@@ -26,6 +36,11 @@ hash = "6eb601a241388a5bc2bca4c2fde535567a236d18d510275bcf3fbea78c79e081"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "2c9f2b96a3dadeb188fbeb0a3f1abe3d76e71529b8677eabb5d6cd3fa674a861"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "96ca9ca593a152da8168e14a548a9800a55f713d5c5ab0c47a9b4bc42e75b714"
 metafile = true
@@ -33,6 +48,16 @@ metafile = true
 [[files]]
 file = "mods/better-end-crashed-ships-tweaks.pw.toml"
 hash = "b5e1042ecaa0a2a6388319ed409abc53ab947c28931cca1733ce511fcc8caed0"
+metafile = true
+
+[[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "3e65329703701a8af3aa71ea1093d921d8e75f1b2d74fbd08fd4e63585277913"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "b1a1dc107705207dc046fd5272143411bbd063eddf167b356a47cf85ffe6b652"
 metafile = true
 
 [[files]]
@@ -68,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "b034dd042c238d4cd1aeca6a0fa5ef3302198ef6c1e34d18638e8326dfc366e6"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "8c0563c333d9841731f5a41cc0314d921fa98f579c9b7909749d1379df61f988"
 metafile = true
 
 [[files]]
@@ -171,6 +201,11 @@ hash = "9cdc3215713f357d68e22b2c61155b84d361646ee57f2cca90287b52837dbb56"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "987c02c2f31875d512336cccc2f5a9d8bbbb60337a9256fd632f6de25a3c3d62"
+metafile = true
+
+[[files]]
 file = "mods/fabric-tps.pw.toml"
 hash = "61be0fa12379647867afc5a160a206366c54c756dfd1d1428c5e635505f44ab4"
 metafile = true
@@ -213,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "cc1efa2d8bf311ed08451d65b618207babc36ddd3b9a070d22a4497aafa9a69f"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "2b4721aba8640cf168336eafb020ccf0b5aee01463edd6a7c44b8adb0d516b92"
 metafile = true
 
 [[files]]
@@ -361,6 +401,16 @@ hash = "ea75aa3d6540593f47e5f1f7d0058f3d39657d4879a99fd7fee0a6387738b262"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "858b2961beca189c561577cc6d0a21a82fe52db6d01f4cb0bde557b7a8dba047"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "485be4ec23a287378b2c0826237dcab1b37b68f41b9020c614e277748417b830"
+metafile = true
+
+[[files]]
 file = "mods/physics-mod.pw.toml"
 hash = "9422e86867a86f61398086d0e1e4766d19051f3b1361029de9da107982cf84b6"
 metafile = true
@@ -493,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/waystones-fabric.pw.toml"
 hash = "aa15275aa62db75bcf31ac3180b96dc8706cfd40b49c938e3128f14bffaa80d7"
+metafile = true
+
+[[files]]
+file = "mods/worldweaver.pw.toml"
+hash = "8b9e924a0d186c7f06b1b482f52a8505ff4beef3b3433c07170744cb0ac5e6df"
 metafile = true
 
 [[files]]
