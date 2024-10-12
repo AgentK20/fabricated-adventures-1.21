@@ -161,6 +161,11 @@ hash = "a2d14a7cf25569c0667f06475b86b5f8914032adea718d18b9c8ee78cfc8f3f6"
 metafile = true
 
 [[files]]
+file = "mods/eternal-starlight.pw.toml"
+hash = "35b2d19bff4fec4276303720c50cec764339c7e38f1fac0f0f3d50b564038667"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "9cdc3215713f357d68e22b2c61155b84d361646ee57f2cca90287b52837dbb56"
 metafile = true
